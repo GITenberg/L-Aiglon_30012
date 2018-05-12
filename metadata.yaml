@@ -1,0 +1,36 @@
+_repo: L-Aiglon_30012
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Parker, Louis Napoleon
+    alias: Parker, Louis N. (Louis Napoleon)
+    birthdate: 1852
+    deathdate: 1944
+    gutenberg_agent_id: '34310'
+    url: http://www.gutenberg.org/2009/agents/34310
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rostand, Edmond
+    birthdate: 1868
+    deathdate: 1918
+    gutenberg_agent_id: '575'
+    url: http://www.gutenberg.org/2009/agents/575
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_Rostand
+description: Charles Frohman presents Maude Adams, in a drama in five acts, by Edmond
+  Rostand, entitled "L'Aiglon," adapted into English by Louis N. Parker.
+gutenberg_issued: '2009-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bonaparte, François-Charles-Joseph, Herzog von Reichstadt, 1811-1832 -- Drama'
+- !lcc 'PQ'
+title: L'Aiglon
+url: http://www.gutenberg.org/ebooks/30012
