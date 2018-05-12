@@ -21,6 +21,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Edmond_Rostand
 description: Charles Frohman presents Maude Adams, in a drama in five acts, by Edmond
   Rostand, entitled "L'Aiglon," adapted into English by Louis N. Parker.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30012#L-Aiglon
 gutenberg_issued: '2009-09-17'
 gutenberg_type: Text
 identifiers:
